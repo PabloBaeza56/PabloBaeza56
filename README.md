@@ -56,7 +56,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## 📊 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PabloBaeza56&show_icons=true&theme=radical)
 
 📫 **Contáctame en**:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Ernesto-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario)  
